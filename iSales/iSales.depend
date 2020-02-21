@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1556340668 source:e:\tugas c++\tubes-isales\isales\isales.cpp
+	"kategori.h"
+
+1556339770 source:e:\tugas c++\tubes-isales\isales\main.cpp
+	"kategori.h"
+
+1556542691 source:e:\coding\github\tubes-isales\isales\isales.cpp
+	"kategori.h"
+
+1556546120 source:e:\coding\github\tubes-isales\isales\main.cpp
+	"kategori.h"
+
+1556078573 e:\coding\github\tubes-isales\isales\isales.h
+	<iostream>
+
+1556340879 e:\tugas c++\tubes-isales\isales\kategori.h
+	"barang.h"
+	<iostream>
+
+1556338343 e:\tugas c++\tubes-isales\isales\barang.h
+	<iostream>
+
+1556550378 e:\coding\github\tubes-isales\isales\kategori.h
+	"barang.h"
+	<stdlib.h>
+	<iostream>
+
+1556543124 e:\coding\github\tubes-isales\isales\barang.h
+	<iostream>
+
+1556587631 source:e:\coding\github\tubes-isales\isales\layoutmenu.cpp
+	"kategori.h"
+	<windows.h>
+
+1556812164 source:e:\coding\github\tubes-isales\isales\barang.cpp
+	"kategori.h"
+
+1556812164 source:e:\coding\github\tubes-isales\isales\kategori.cpp
+	"kategori.h"
+
